@@ -15,7 +15,7 @@ We are guaranteed that the same SSN value is present in every file, and that it 
 
 In addition, the files are all sorted by SSN, i.e. the SSN values appear in the same order in each file.
 
-Implemented code can be found in this [Colab Link]()
+Implemented code can be found in this [Colab Link](https://colab.research.google.com/drive/13D52BJjgq1TqqWM58GQWUv_-wvk97-J7?usp=sharing)
 
 ### Goal 1
 Your first task is to create iterators for each of the four files that contained cleaned up data, of the correct type (e.g. string, int, date, etc), and represented by a named tuple. For now these four iterators are just separate, independent iterators.
